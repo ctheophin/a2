@@ -15,7 +15,7 @@
 <body>
 	<header class="jumbotron">
   <div class="text-center display-4">Watcha Watchin'!</div>
-	<p class="text-center lead"><a href="new.php">Tell us what you're watching!</a></p>
+	<p class="text-center lead"><a href="index.php">Tell us what you're watching!</a></p>
   <hr class="my-4">
   <p class="text-center">See what other people are watching!</p>
 </header>
@@ -64,7 +64,7 @@
 </form>
 <!-- close the form -->
 
-<p class="text-center"><a href="new.php">Are you watching anything else?</a></p>
+<p class="text-center"><a href="index.php">Are you watching anything else?</a></p>
 
 </div> <!-- close container -->
 </body>

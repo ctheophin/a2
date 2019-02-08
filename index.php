@@ -100,7 +100,7 @@
 
 <div id="response">
     <p class="announce">Thanks for submitting the form!</p>
-    <p class="middle"><a href="new.php">Watching Something Else?</a></p>
+    <p class="middle"><a href="index.php">Watching Something Else?</a></p>
 </div>
 
 </div> <!-- close container -->
